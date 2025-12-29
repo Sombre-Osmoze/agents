@@ -13,7 +13,7 @@ This repository serves as a centralized location for:
 ## Repository Structure
 
 ```
-agents/
+.
 ├── agents/              # Agent definition files
 ├── examples/            # Example configurations and usage
 ├── templates/           # Code and configuration templates
